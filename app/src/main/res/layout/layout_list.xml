@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardveiw"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:elevation="25dp"
+    android:focusable="false"
+    app:cardBackgroundColor="@color/posts_color"
+
+    app:cardCornerRadius="10dp"
+    app:cardElevation="5dp"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true"
+    app:contentPadding="5dp">
+
+
+    <LinearLayout
+        android:id="@+id/parent_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/userInfo"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:background="@drawable/ripple_layouts"
+            android:clickable="true"
+            android:focusableInTouchMode="false"
+            android:orientation="horizontal">
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image_recycler"
+                    android:layout_width="46dp"
+                    android:layout_height="36dp"
+                    android:layout_gravity="center"
+                    android:src="@mipmap/add_round" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/image_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginEnd="100dp"
+                    android:text="Title"
+                    android:textAlignment="viewStart"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="16sp"
+                    android:textStyle="normal|bold|italic" />
+
+                <TextView
+                    android:id="@+id/time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="100dp"
+                    android:text="time"
+                    android:textAlignment="viewStart"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="10sp"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+            <View
+                android:id="@+id/divider5"
+                android:layout_width="2dp"
+                android:layout_height="40dp"
+                android:background="@color/background" />
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/background" />
+
+        <TextView
+            android:id="@+id/imageDescr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:padding="3dp"
+            android:text="Description"
+            android:textColor="@color/add_background"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:id="@+id/divider2"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/background" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="25dp"
+                android:layout_height="20dp"
+
+                android:layout_alignParentTop="true"
+                android:layout_gravity="clip_horizontal|center_horizontal|fill_vertical"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="3dp"
+                android:layout_toEndOf="@+id/LikeButtonInactive"
+                android:background="@drawable/ic_baseline_message_24"
+                android:elevation="-50dp"
+                android:focusableInTouchMode="false"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#62fea9"
+                android:textSize="13sp"
+                app:rippleColor="#1f000000" />
+
+
+            <Button
+                android:id="@+id/LikeButtonInactive"
+                android:layout_width="25dp"
+                android:layout_height="20dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="3dp"
+                android:background="@drawable/ic_baseline_favorite_border_24" />
+
+            <Button
+                android:id="@+id/LikeButtonActive"
+                android:layout_width="25dp"
+                android:layout_height="20dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="3dp"
+                android:background="@drawable/ic_baseline_favorite_24_active"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

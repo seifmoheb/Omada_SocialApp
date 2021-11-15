@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77363495280",
+    "firebase_url": "https://omada-254b5.firebaseio.com",
+    "project_id": "omada-254b5",
+    "storage_bucket": "omada-254b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77363495280:android:60d589fc411ac0569d4fb5",
+        "android_client_info": {
+          "package_name": "com.app.secondapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77363495280-gunbmpjr8q9erg752570sfrel8877aq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.secondapp",
+            "certificate_hash": "742a824c174077793c38a9c222521123913b914a"
+          }
+        },
+        {
+          "client_id": "77363495280-hb7cb14g7o3aemfrajm2trtfrk08naia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5d0KbBRvulI8aGUcvh2u9ugHk4qagYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77363495280-hb7cb14g7o3aemfrajm2trtfrk08naia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

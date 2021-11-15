@@ -1,0 +1,1242 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_add_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_camera_image_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_camera_image.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\camera_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-hdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\menu-v26_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\menu-v26\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_os_notification_fallback_white_24dp_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_os_notification_fallback_white_24dp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_time_circle.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\time_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_woman.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\woman.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_circle.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\progress_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_return_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\return_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_add_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_stat_onesignal_default_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_stat_onesignal_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_button.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_message_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_following_list.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\following_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_back.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\chat_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fiber_manual_record_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_fiber_manual_record_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_assignment_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_os_notification_fallback_white_24dp_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_os_notification_fallback_white_24dp_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_os_notification_fallback_white_24dp_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_os_notification_fallback_white_24dp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_stat_onesignal_default_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_stat_onesignal_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_addpost.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\addpost.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_stat_onesignal_default_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_stat_onesignal_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_list.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\layout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_user.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_add.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_placeholder.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\message_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_addpost_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\addpost_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_icon_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\user_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_return_pic.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\return_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oval_shimmer.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\oval_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_phone.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_legal_policies.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\menu\\menu_legal_policies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nebulablue.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\nebulablue.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_stat_onesignal_default_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_stat_onesignal_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_messages_list.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\messages_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fiber_manual_record_24_offline.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_fiber_manual_record_24_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_icon.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\user_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fiber_manual_record_24_normal.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_fiber_manual_record_24_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_back.jpg.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\logo_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_image.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\camera_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_placeholder.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\card_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\email_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mail_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\mail_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\design.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_user.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_return_pic.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\return_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_stat_onesignal_default_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_stat_onesignal_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_addpost_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\addpost_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_add_photo.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\camera_add_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_circle_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_remove_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button_.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\add_button_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_phone.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_following.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_following.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_mail_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\mail_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_return_pic.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\return_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_attach_file_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_full_screen_image.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_full_screen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mail.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_final_logo.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_final_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-mdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_camera_image.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\camera_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_layouts.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ripple_layouts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_layouts2.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ripple_layouts2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_send.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_return_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\return_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_user_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_os_notification_fallback_white_24dp_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_os_notification_fallback_white_24dp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_camera_image_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\camera_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_send_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\send_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mylikes.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_mylikes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_a_photo_black_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_add_a_photo_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_stat_onesignal_default_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_stat_onesignal_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_send.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_followers.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_followers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_addpost.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\addpost.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgotpassword.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_send.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contacts.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-mdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_phone_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\phone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\email_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_os_notification_fallback_white_24dp_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_os_notification_fallback_white_24dp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_fragment.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\all_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_return_pic.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\return_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fiber_manual_record_24xxx.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_fiber_manual_record_24xxx.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_list_2.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\layout_list_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_user.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_info_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\info_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_return_pic.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\return_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_addpost.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\addpost.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_info_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\info_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_os_notification_fallback_white_24dp_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_os_notification_fallback_white_24dp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_return_pic.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\return_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_policy_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_policy_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_phone_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\phone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\info_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_os_notification_fallback_white_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_os_notification_fallback_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\add_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_back_final.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\chat_back_final.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_info.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_add_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\add_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_users_list_placeholder.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\users_list_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addpost_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\addpost_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_phone.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_camera_image_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\camera_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_camera_image.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\camera_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover.jpg.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\cover.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_os_notification_fallback_white_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_os_notification_fallback_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_shimmer.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\rounded_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mail_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\mail_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mail.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_user_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_layout_of_users.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\message_layout_of_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_scrolling.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_user_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_add.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_stat_onesignal_default.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_stat_onesignal_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_info.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_return_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\return_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_placeholder.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\left_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_info_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\info_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_info_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\info_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong_input.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\wrong_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button_hover.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\round_button_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_send_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\send_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_add_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_send.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_posts_section.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_posts_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_os_notification_fallback_white_24dp_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_os_notification_fallback_white_24dp_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_addpost.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\addpost.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_info_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\info_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_placeholder.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\right_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_send_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\send_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_addpost.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\addpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_os_notification_fallback_white_24dp_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_os_notification_fallback_white_24dp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_user_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\user_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_addpost_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\addpost_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_legal_policies.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_legal_policies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_auto_complete.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_auto_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_edit_text.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\search_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_stat_onesignal_default_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_stat_onesignal_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_add.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_picture_as_pdf_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_picture_as_pdf_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_info.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_stat_onesignal_default_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_stat_onesignal_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\info_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_stat_onesignal_default_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_stat_onesignal_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_camera_image.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\camera_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_send.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mail.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_camera_image.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_add.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_input.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\message_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mail_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\mail_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_add.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo4.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\logo4.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_info_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\info_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_back2.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\chat_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_return_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\return_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_addpost.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\addpost.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_phone_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\phone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_return_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\return_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_camera_image.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\camera_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enter_link_out.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_enter_link_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_info.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_right.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\background_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_addpost_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\addpost_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_stat_onesignal_default_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_stat_onesignal_default_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\phone_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_submit_button.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\submit_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_followers_list.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\followers_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_phone_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\phone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_os_notification_fallback_white_24dp_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_os_notification_fallback_white_24dp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_phone.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_return_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\return_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_send_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\send_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\add_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apply_button.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\apply_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mail_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\mail_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_phone_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\phone_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_os_notification_fallback_white_24dp_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_os_notification_fallback_white_24dp_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\send_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_addpost_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\addpost_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_add.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mail.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_a_photo_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_add_a_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\camera_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_phone.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enter_link.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_enter_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_user_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_camera_image_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\camera_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_add_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_log.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up_omada.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_sign_up_omada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_mail.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_phone.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_user.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_log.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\user_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mail.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo3.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mail_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\mail_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_send.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\phone_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_add_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_stat_onesignal_default_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_stat_onesignal_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_left.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\background_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ornaments.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ornaments.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buton.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\buton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_send_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\send_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_camera_image_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\camera_image_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_pop.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_info_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_user.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_os_notification_fallback_white_24dp_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_os_notification_fallback_white_24dp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normal_input.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\normal_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_myposts.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_myposts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_info.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram_icon.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\instagram_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_hom_navigation.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\navigation\\hom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_filtered_fragment.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\filtered_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_os_notification_fallback_white_24dp_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_os_notification_fallback_white_24dp_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_added_button.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\added_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_button.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_add_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_next.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\activity_signup_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_addpost_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\addpost_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_24_active.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_24_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_return_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\return_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_camera_image_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\camera_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_phone_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\phone_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_activity_nav.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\layout\\home_activity_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_info.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-hdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_send_round.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\SecondApp\\app\\src\\main\\res\\mipmap-mdpi\\send_round.png"
+    }
+]

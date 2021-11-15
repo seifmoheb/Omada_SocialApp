@@ -1,0 +1,591 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.secondapp"
+4    android:versionCode="12"
+5    android:versionName="11.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:10:22-78
+17
+18    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+19    <permission
+19-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:7:5-9:47
+20        android:name="com.app.secondapp.permission.C2D_MESSAGE"
+20-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:8:9-63
+21        android:protectionLevel="signature" />
+21-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:9:9-44
+22
+23    <uses-permission android:name="com.app.secondapp.permission.C2D_MESSAGE" />
+23-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:11:5-79
+23-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:11:22-76
+24    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Required, makes sure notifications are delivered on time. -->
+24-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:17:5-82
+24-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:17:22-79
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:18:5-68
+25-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:18:22-65
+26    <!--
+27 Required so the device vibrates on receiving a push notification.
+28         Vibration settings of the device still apply.
+29    -->
+30    <uses-permission android:name="android.permission.VIBRATE" />
+30-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:23:5-66
+30-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:23:22-63
+31    <!--
+32 Use to restore notifications the user hasn't interacted with.
+33         They could be missed notifications if the user reboots their device if this isn't in place.
+34    -->
+35    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- START: ShortcutBadger -->
+35-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:29:5-81
+35-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:29:22-78
+36    <!-- Samsung -->
+37    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+37-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:31:5-86
+37-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:31:22-83
+38    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+38-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:32:5-87
+38-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:32:22-84
+39    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+39-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:33:5-81
+39-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:33:22-78
+40    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+40-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:34:5-83
+40-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:34:22-80
+41    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+41-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:35:5-88
+41-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:35:22-85
+42    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+42-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:36:5-92
+42-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:36:22-89
+43    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+43-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:37:5-84
+43-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:37:22-81
+44    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+44-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:38:5-83
+44-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:38:22-80
+45    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+45-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:39:5-91
+45-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:39:22-88
+46    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+46-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:40:5-92
+46-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:40:22-89
+47    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+47-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:41:5-93
+47-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:41:22-90
+48    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+48-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:42:5-73
+48-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:42:22-70
+49    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+49-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:43:5-82
+49-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:43:22-79
+50    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+50-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:44:5-83
+50-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:44:22-80
+51    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+51-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:45:5-88
+51-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:45:22-85
+52    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+52-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:46:5-89
+52-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:46:22-86
+53
+54    <application
+54-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:12:5-85:19
+55        android:allowBackup="true"
+55-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:13:9-35
+56        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+56-->[androidx.core:core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b2b51ad2129f7ae88186ad90508b79ab\core-1.1.0\AndroidManifest.xml:24:18-86
+57        android:extractNativeLibs="false"
+58        android:icon="@mipmap/ic_launcher"
+58-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:14:9-43
+59        android:label="@string/app_name"
+59-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:15:9-41
+60        android:roundIcon="@mipmap/ic_launcher_round"
+60-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:16:9-54
+61        android:supportsRtl="true"
+61-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:17:9-35
+62        android:theme="@style/AppTheme" >
+62-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:18:9-40
+63        <activity android:name="com.app.secondapp.Signup_next" />
+63-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:19:9-58
+63-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:19:19-46
+64        <activity android:name="com.app.secondapp.sign_up_omada" />
+64-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:20:9-51
+64-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:20:19-48
+65        <activity android:name="com.app.secondapp.followers" />
+65-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:21:9-47
+65-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:21:19-44
+66        <activity android:name="com.app.secondapp.following" />
+66-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:22:9-47
+66-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:22:19-44
+67        <activity android:name="com.app.secondapp.forgotpassword" />
+67-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:23:9-52
+67-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:23:19-49
+68        <activity
+68-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:24:9-26:47
+69            android:name="com.app.secondapp.enter_link_out"
+69-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:25:13-43
+70            android:theme="@style/MyDialog" />
+70-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:26:13-44
+71        <activity
+71-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:27:9-29:47
+72            android:name="com.app.secondapp.enter_link"
+72-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:28:13-39
+73            android:theme="@style/MyDialog" />
+73-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:29:13-44
+74        <activity
+74-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:30:9-33:59
+75            android:name="com.app.secondapp.legal_policies"
+75-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:31:13-43
+76            android:label="@string/title_activity_legal_policies"
+76-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:32:13-66
+77            android:theme="@style/AppTheme.NoActionBar" />
+77-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:33:13-56
+78        <activity android:name="com.app.secondapp.mylikes" />
+78-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:34:9-45
+78-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:34:19-42
+79        <activity android:name="com.app.secondapp.myposts" />
+79-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:35:9-45
+79-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:35:19-42
+80        <activity android:name="com.app.secondapp.chatActivity" />
+80-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:36:9-50
+80-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:36:19-47
+81        <activity
+81-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:37:9-39:47
+82            android:name="com.app.secondapp.autoComplete"
+82-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:38:13-41
+83            android:theme="@style/MyDialog" />
+83-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:39:13-44
+84        <activity
+84-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:40:9-42:47
+85            android:name="com.app.secondapp.info_pop"
+85-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:41:13-37
+86            android:theme="@style/MyDialog" />
+86-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:42:13-44
+87        <activity android:name="com.app.secondapp.postsSection" />
+87-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:43:9-50
+87-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:43:19-47
+88        <activity android:name="com.app.secondapp.fullScreenImage" />
+88-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:44:9-53
+88-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:44:19-50
+89        <activity
+89-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:45:9-47:59
+90            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+90-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:46:13-76
+91            android:theme="@style/Base.Theme.AppCompat" />
+91-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:47:13-56
+92        <activity
+92-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:48:9-51:58
+93            android:name="com.app.secondapp.SignUp"
+93-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:49:13-35
+94            android:screenOrientation="portrait"
+94-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:50:13-49
+95            android:windowSoftInputMode="adjustResize" />
+95-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:51:13-55
+96        <activity
+96-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:52:9-54:52
+97            android:name="com.app.secondapp.Password"
+97-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:53:13-37
+98            android:screenOrientation="portrait" />
+98-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:54:13-49
+99        <activity
+99-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:55:9-57:52
+100            android:name="com.app.secondapp.Settings"
+100-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:56:13-37
+101            android:screenOrientation="portrait" />
+101-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:57:13-49
+102        <activity
+102-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:58:9-61:52
+103            android:name="com.app.secondapp.MainActivity"
+103-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:59:13-41
+104            android:label="@string/app_name"
+104-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:60:13-45
+105            android:screenOrientation="portrait" />
+105-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:61:13-49
+106        <activity
+106-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:62:9-65:52
+107            android:name="com.app.secondapp.log"
+107-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:63:13-32
+108            android:label="@string/app_name"
+108-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:64:13-45
+109            android:screenOrientation="portrait" />
+109-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:65:13-49
+110        <activity
+110-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:66:9-75:20
+111            android:name="com.app.secondapp.splash_activity"
+111-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:67:13-44
+112            android:label="@string/app_name"
+112-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:68:13-45
+113            android:screenOrientation="portrait" >
+113-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:69:13-49
+114            <intent-filter>
+114-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:70:13-74:29
+115                <action android:name="android.intent.action.MAIN" />
+115-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:71:17-69
+115-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:71:25-66
+116
+117                <category android:name="android.intent.category.LAUNCHER" />
+117-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:73:17-77
+117-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:73:27-74
+118            </intent-filter>
+119        </activity>
+120
+121        <service
+121-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:77:9-84:19
+122            android:name="com.app.secondapp.MyService"
+122-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:78:13-38
+123            android:exported="false"
+123-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:79:13-37
+124            android:permission="android.permission.BIND_JOB_SERVICE" >
+124-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:80:13-69
+125            <intent-filter>
+125-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:81:13-83:29
+126                <action android:name="com.onesignal.NotificationExtender" />
+126-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:82:17-77
+126-->C:\Users\Asus\Desktop\SecondApp\app\src\main\AndroidManifest.xml:82:25-74
+127            </intent-filter>
+128        </service>
+129
+130        <meta-data
+130-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:49:9-51:51
+131            android:name="onesignal_app_id"
+131-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:50:13-44
+132            android:value="d4f112c6-d699-458e-88ec-0f31783a394f" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+132-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:51:13-48
+133        <meta-data
+133-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:53:9-55:70
+134            android:name="onesignal_google_project_number"
+134-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:54:13-59
+135            android:value="str:REMOTE" />
+135-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:55:13-67
+136
+137        <receiver
+137-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:57:9-67:20
+138            android:name="com.onesignal.GcmBroadcastReceiver"
+138-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:58:13-62
+139            android:permission="com.google.android.c2dm.permission.SEND" >
+139-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:59:13-73
+140
+141            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+142            <intent-filter android:priority="999" >
+142-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:62:13-66:29
+142-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:62:28-50
+143                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+143-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:63:17-81
+143-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:63:25-78
+144
+145                <category android:name="com.app.secondapp" />
+145-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:65:17-61
+145-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:65:27-58
+146            </intent-filter>
+147        </receiver>
+148        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+148-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:68:9-77
+148-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:68:19-74
+149
+150        <service
+150-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:70:9-76:19
+151            android:name="com.onesignal.HmsMessageServiceOneSignal"
+151-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:71:13-68
+152            android:exported="false" >
+152-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:72:13-37
+153            <intent-filter>
+153-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:73:13-75:29
+154                <action android:name="com.huawei.push.action.MESSAGING_EVENT" />
+154-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:74:17-81
+154-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:74:25-78
+155            </intent-filter>
+156        </service>
+157
+158        <activity
+158-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:78:9-84:20
+159            android:name="com.onesignal.NotificationOpenedActivityHMS"
+159-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:79:13-71
+160            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+160-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:80:13-72
+161            <intent-filter>
+161-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:81:13-83:29
+162                <action android:name="android.intent.action.VIEW" />
+162-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:82:17-69
+162-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:82:25-66
+163            </intent-filter>
+164        </activity>
+165
+166        <service android:name="com.onesignal.GcmIntentService" />
+166-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:86:9-66
+166-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:86:18-63
+167        <service
+167-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:87:9-89:72
+168            android:name="com.onesignal.GcmIntentJobService"
+168-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:88:13-61
+169            android:permission="android.permission.BIND_JOB_SERVICE" />
+169-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:89:13-69
+170        <service
+170-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:90:9-92:72
+171            android:name="com.onesignal.RestoreJobService"
+171-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:91:13-59
+172            android:permission="android.permission.BIND_JOB_SERVICE" />
+172-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:92:13-69
+173        <service
+173-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:93:9-95:72
+174            android:name="com.onesignal.RestoreKickoffJobService"
+174-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:94:13-66
+175            android:permission="android.permission.BIND_JOB_SERVICE" />
+175-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:95:13-69
+176        <service
+176-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:96:9-98:43
+177            android:name="com.onesignal.SyncService"
+177-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:97:13-53
+178            android:stopWithTask="true" />
+178-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:98:13-40
+179        <service
+179-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:99:9-101:72
+180            android:name="com.onesignal.SyncJobService"
+180-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:100:13-56
+181            android:permission="android.permission.BIND_JOB_SERVICE" />
+181-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:101:13-69
+182
+183        <activity
+183-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:103:9-105:75
+184            android:name="com.onesignal.PermissionsActivity"
+184-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:104:13-61
+185            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+185-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:105:13-72
+186
+187        <service android:name="com.onesignal.NotificationRestoreService" />
+187-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:107:9-76
+187-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:107:18-73
+188
+189        <receiver android:name="com.onesignal.BootUpReceiver" >
+189-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:109:9-114:20
+189-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:109:19-62
+190            <intent-filter>
+190-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:110:13-113:29
+191                <action android:name="android.intent.action.BOOT_COMPLETED" />
+191-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:111:17-79
+191-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:111:25-76
+192                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+192-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:112:17-82
+192-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:112:25-79
+193            </intent-filter>
+194        </receiver>
+195        <receiver android:name="com.onesignal.UpgradeReceiver" >
+195-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:115:9-119:20
+195-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:115:19-63
+196            <intent-filter>
+196-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:116:13-118:29
+197                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+197-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:117:17-84
+197-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:117:25-81
+198            </intent-filter>
+199        </receiver>
+200        <!--
+201             FirebaseMessagingService performs security checks at runtime,
+202             but set to not exported to explicitly avoid allowing another app to call it.
+203        -->
+204        <service
+204-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:28:9-35:19
+205            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+205-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:29:13-82
+206            android:directBootAware="true"
+206-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:30:13-43
+207            android:exported="false" >
+207-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:31:13-37
+208            <intent-filter android:priority="-500" >
+208-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:32:13-34:29
+208-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:32:28-51
+209                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+209-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:33:17-78
+209-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:33:25-75
+210            </intent-filter>
+211        </service>
+212        <service
+212-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:36:9-42:19
+213            android:name="com.google.firebase.components.ComponentDiscoveryService"
+213-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:37:13-84
+214            android:directBootAware="true"
+214-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+215            android:exported="false" >
+215-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:38:13-37
+216            <meta-data
+216-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:39:13-41:85
+217                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+217-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:40:17-119
+218                android:value="com.google.firebase.components.ComponentRegistrar" />
+218-->[com.google.firebase:firebase-messaging:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\95706d4ceec64f81eef9536fd8eeedfc\jetified-firebase-messaging-20.2.1\AndroidManifest.xml:41:17-82
+219            <meta-data
+219-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
+220                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+220-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
+221                android:value="com.google.firebase.components.ComponentRegistrar" />
+221-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\6ae2d636d1b0a123e40b25bf192e7a20\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
+222            <meta-data
+222-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b338bb93c259f5f56bb62754a45d233c\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+223                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+223-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b338bb93c259f5f56bb62754a45d233c\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+224                android:value="com.google.firebase.components.ComponentRegistrar" />
+224-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\b338bb93c259f5f56bb62754a45d233c\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+225            <meta-data
+225-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:36:13-38:85
+226                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+226-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:37:17-109
+227                android:value="com.google.firebase.components.ComponentRegistrar" />
+227-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:38:17-82
+228            <meta-data
+228-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:32:13-34:85
+229                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+229-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:33:17-96
+230                android:value="com.google.firebase.components.ComponentRegistrar" />
+230-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:34:17-82
+231            <meta-data
+231-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5306169e9b9062d38fa263bfb2c928d9\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+232                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+232-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5306169e9b9062d38fa263bfb2c928d9\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\5306169e9b9062d38fa263bfb2c928d9\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+234            <meta-data
+234-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d779862833b2e38d034774aebdb702cf\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+235                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+235-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d779862833b2e38d034774aebdb702cf\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+236                android:value="com.google.firebase.components.ComponentRegistrar" />
+236-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d779862833b2e38d034774aebdb702cf\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+237        </service>
+238
+239        <activity
+239-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:24:9-31:50
+240            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+240-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:25:13-85
+241            android:excludeFromRecents="true"
+241-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:26:13-46
+242            android:exported="true"
+242-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:27:13-36
+243            android:launchMode="singleTask"
+243-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:28:13-44
+244            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+244-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:29:13-102
+245            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+245-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4b6c239d10ee2845936010180a95495d\jetified-firebase-auth-19.3.2\AndroidManifest.xml:30:13-72
+246
+247        <provider
+247-->[com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ca53a380a17bee98f675f7d01f4858f9\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+248            android:name="com.squareup.picasso.PicassoProvider"
+248-->[com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ca53a380a17bee98f675f7d01f4858f9\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+249            android:authorities="com.app.secondapp.com.squareup.picasso"
+249-->[com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ca53a380a17bee98f675f7d01f4858f9\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+250            android:exported="false" />
+250-->[com.squareup.picasso:picasso:2.71828] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ca53a380a17bee98f675f7d01f4858f9\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+251
+252        <service
+252-->[com.novoda:merlin:1.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3a891e747ccd4d2d85cf39819c805fe6\jetified-merlin-1.2.0\AndroidManifest.xml:11:9-13:40
+253            android:name="com.novoda.merlin.MerlinService"
+253-->[com.novoda:merlin:1.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3a891e747ccd4d2d85cf39819c805fe6\jetified-merlin-1.2.0\AndroidManifest.xml:12:13-59
+254            android:exported="false" />
+254-->[com.novoda:merlin:1.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3a891e747ccd4d2d85cf39819c805fe6\jetified-merlin-1.2.0\AndroidManifest.xml:13:13-37
+255
+256        <receiver
+256-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:37:9-44:20
+257            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+257-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:38:13-78
+258            android:exported="true"
+258-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:39:13-36
+259            android:permission="com.google.android.c2dm.permission.SEND" >
+259-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:40:13-73
+260            <intent-filter>
+260-->[com.google.firebase:firebase-iid:20.2.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\237790469e537c7eac89051e52c81565\jetified-firebase-iid-20.2.1\AndroidManifest.xml:41:13-43:29
+261                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+261-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:63:17-81
+261-->[com.onesignal:OneSignal:3.15.3] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\8f79a31f71c7d18d6f40ce2e286c1b16\jetified-OneSignal-3.15.3\AndroidManifest.xml:63:25-78
+262            </intent-filter>
+263        </receiver>
+264
+265        <provider
+265-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+266            android:name="com.google.firebase.provider.FirebaseInitProvider"
+266-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+267            android:authorities="com.app.secondapp.firebaseinitprovider"
+267-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+268            android:exported="false"
+268-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+269            android:initOrder="100" />
+269-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+270
+271        <activity
+271-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+272            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+272-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+273            android:exported="false"
+273-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+274            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+274-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\78b13228d1b7806e4595749364e08dfc\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+275
+276        <meta-data
+276-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ad072bd06501b4ced252e97ed9ee745e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+277            android:name="com.google.android.gms.version"
+277-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ad072bd06501b4ced252e97ed9ee745e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+278            android:value="@integer/google_play_services_version" />
+278-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ad072bd06501b4ced252e97ed9ee745e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+279
+280        <service
+280-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+281            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+281-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+282            android:exported="false" >
+282-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+283            <meta-data
+283-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+284                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+284-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+285                android:value="cct" />
+285-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+286        </service>
+287        <service
+287-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+288            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+288-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+289            android:exported="false"
+289-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+290            android:permission="android.permission.BIND_JOB_SERVICE" >
+290-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+291        </service>
+292
+293        <receiver
+293-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+294            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+294-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+295            android:exported="false" />
+295-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+296
+297        <provider
+297-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\21622a01bcea9d974767ec438f83b43c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+298            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+298-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\21622a01bcea9d974767ec438f83b43c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+299            android:authorities="com.app.secondapp.lifecycle-process"
+299-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\21622a01bcea9d974767ec438f83b43c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+300            android:exported="false"
+300-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\21622a01bcea9d974767ec438f83b43c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+301            android:multiprocess="true" />
+301-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\21622a01bcea9d974767ec438f83b43c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+302    </application>
+303
+304</manifest>

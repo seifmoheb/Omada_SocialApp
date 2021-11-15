@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#152238</color>
+    <color name="navbar">#1C2E4A</color>
+    <color name="posts_color">#23395D</color>
+    <color name="shimmer">#dddddd</color>
+    <color name="purple">#D082F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name = "chatBack">#425272</color>
+    <color name="grayPlaceHolder">#CCCBCB</color>
+    <color name="background2">#305366</color>
+    <color name="golden">#bb9b01</color>
+    <color name="edit_text_color">#e0ddd5</color>
+
+</resources>
